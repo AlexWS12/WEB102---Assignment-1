@@ -4,83 +4,83 @@ import Card from './Card'
 const events = [
   {
     title: "No-Gi Grappling Seminar",
-    location: "Miami BJJ Club",
+    location: "Gracie Barra Kendall",
     date: "June 20, 2025",
     instructor: "Coach Mike",
     image: "/nogi.jpg",
-    link: "https://example.com/event1"
+    link: "https://graciebarra.com/miami-fl-kendall/"
   },
   {
     title: "Muay Thai Smoker",
-    location: "Hard Knocks Gym",
+    location: "Bushido Muay Thai",
     date: "July 5, 2025",
     instructor: "Samart Payakaroon",
     image: "/smoker.jpg",
-    link: "https://example.com/event2"
+    link: "https://www.bushidomuaythai.com/"
   },
   {
     title: "Wrestling for MMA Workshop",
-    location: "Gladiator Academy",
+    location: "Evolution MMA",
     date: "June 25, 2025",
     instructor: "Coach Alexander",
     image: "/wrestle.jpg",
-    link: "https://example.com/event3"
+    link: "https://mmamiami.com/"
   },
   {
     title: "Striking Defense Drills",
-    location: "Fight Fit Hialeah",
+    location: "Vice City Striking",
     date: "July 10, 2025",
-    instructor: "Sensei Luis",
+    instructor: "Coach Ryan",
     image: "/strikingd.jpg",
-    link: "https://example.com/event4"
+    link: "https://vicecitystriking.com/"
   },
   {
     title: "Open Mat: MMA Sparring",
-    location: "305 MMA",
+    location: "UFC Gym Kendall",
     date: "Every Saturday",
     instructor: "N/A",
     image: "/mmaspar.jpg",
-    link: "https://example.com/event5"
+    link: "https://www.instagram.com/ufcgymkendall/?hl=en"
   },
   {
     title: "Judo Takedowns for MMA",
-    location: "Coral Gables Dojo",
+    location: "A. Kolychkine Judo",
     date: "June 29, 2025",
     instructor: "Coach Yasuhiro",
     image: "/judo.jpg",
-    link: "https://example.com/event6"
+    link: "https://kolychkinejudo.com/"
   },
   {
     title: "Boxing Basics for Beginners",
-    location: "Beast Boxing Gym",
+    location: "Lion Heart Boxing",
     date: "July 1, 2025",
     instructor: "Coach Saul",
     image: "/boxing.jpg",
-    link: "https://example.com/event7"
+    link: "https://lhboxing.com/"
   },
   {
     title: "BJJ Kids Tournament",
-    location: "Little Warriors BJJ",
+    location: "Gama Filho Martial Arts",
     date: "July 15, 2025",
     instructor: "Prof. Roger",
     image: "bjj.png",
-    link: "https://example.com/event8"
+    link: "https://www.gamafilhomartialarts.com/"
   },
   {
     title: "Kickboxing Cardio Camp",
-    location: "Sweat Box MMA",
+    location: "American Top Team",
     date: "July 3, 2025",
     instructor: "Coach Max",
     image: "/kickb.jpg",
-    link: "https://example.com/event9"
+    link: "https://www.attaventuranmb.com/"
   },
   {
     title: "Fight IQ: Strategy Seminar",
-    location: "Nova MMA Hall",
+    location: "Kill Cliff FC",
     date: "July 20, 2025",
     instructor: "Coach Jon",
     image: "/strat.jpg",
-    link: "https://example.com/event10"
+    link: "https://www.killclifffc.com/"
   },
 ]
 
