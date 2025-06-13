@@ -2,7 +2,7 @@
 
 Submitted by: **Alex Waisman**
 
-This web app: **insert description**
+This web app: **is a community board for MMA enthusiasts, showcasing upcoming events, local resources, and helpful links in a responsive and accessible format.**
 
 Time spent: **6** hours spent in total
 
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you added to improve the site's functionality!
+* [] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
@@ -36,7 +36,7 @@ Here's a walkthrough of implemented required features:
 [Click here to watch the walkthrough](https://i.imgur.com/sRDntXP.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -44,12 +44,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I really struggled adding the gif to this README file.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
+    Copyright [2025] [Alex Waisman]
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
